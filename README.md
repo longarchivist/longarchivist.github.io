@@ -1,5 +1,5 @@
 # longarchivist.github.io
-The first nontrivial project page is available at: https://longarchivist.github.io/codediary
+The first nontrivial project page is available at: [longarchivist.github.io/codediary] (https://longarchivist.github.io/codediary)
 <p> </p>
 This blog was meant to follow the instructions on using "Automatic Page Generator" as explained at:
 https://www.youtube.com/watch?v=RaKX4A5EiQo
